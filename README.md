@@ -315,7 +315,7 @@ Etherean → Initiate → Adept → Mage → Sorcerer → Archmage → High Wiza
 | 🧙 **Mage** | Memulai Phase 2 |
 | 🔮 **Sorcerer** | Memulai Phase 3 |
 | 👑 **Archmage** | Lulus Phase 3 atau alumni hackathon |
-| 🏆 **High Wizard** | Top contributor |
+| 🏆 **High Wizard** | Top contributor & kontributor learning resource ETHJKT |
 
 ---
 
