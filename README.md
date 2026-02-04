@@ -319,6 +319,50 @@ Etherean → Initiate → Adept → Mage → Sorcerer → Archmage → High Wiza
 
 ---
 
+## 🏆 Become a High Wizard
+
+Ingin berkontribusi untuk komunitas dan menjadi **High Wizard**? Kamu bisa membantu mengembangkan learning resource ETHJKT!
+
+### 📝 Cara Berkontribusi
+
+| Kontribusi | Deskripsi |
+|------------|-----------|
+| 📚 **Buat Materi Baru** | Tulis study material untuk topic yang belum ada |
+| 🔧 **Perbaiki Materi** | Fix typo, update outdated content, atau improve penjelasan |
+| 🧪 **Buat Arcane Quest** | Desain challenge/exercise baru untuk melatih skill |
+| 🌐 **Translate** | Bantu terjemahkan materi ke Bahasa Indonesia atau English |
+| 💡 **Propose Ideas** | Usulkan topic baru atau improvement untuk kurikulum |
+
+### 🚀 Cara Submit Kontribusi
+
+1. **Fork** repository materi yang ingin di-improve
+2. **Buat branch** baru untuk kontribusi kamu
+3. **Tulis/edit** materi dengan format markdown
+4. **Submit Pull Request** ke repo utama
+5. **Review** oleh Council of Mentors
+6. **Merge** dan kamu resmi jadi kontributor!
+
+### 🎁 Benefits High Wizard
+
+| Benefit | Deskripsi |
+|---------|-----------|
+| 🏅 **Special Role** | Role High Wizard di Discord dengan warna exclusive |
+| 📜 **Hall of Fame** | Nama kamu tercatat di contributors list |
+| 🎓 **Certificate** | Digital certificate sebagai ETHJKT Contributor |
+| 🤝 **Network** | Akses ke private channel dengan mentors & wizards lainnya |
+| 💼 **Career Boost** | Referral dan rekomendasi untuk job opportunities |
+| 🎪 **Event Priority** | Priority access untuk offline events & hackathon squad |
+
+### 📖 Contribution Guidelines
+
+- Gunakan Bahasa Indonesia yang mudah dipahami
+- Sertakan code examples yang bisa langsung dijalankan
+- Tambahkan visualisasi/diagram jika membantu pemahaman
+- Follow structure yang sudah ada di materi lainnya
+- Test semua code sebelum submit PR
+
+---
+
 ## 🧙‍♂️ Council of Mentors
 
 | Mentor | Expertise |
