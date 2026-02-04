@@ -1,6 +1,6 @@
 # ETHJKT Course - Full Stack Web3 Developer
 
-![ETHJKT Banner](https://ethjkt.id/banner.png)
+![ETHJKT Banner](./ethjktbanner.png)
 
 **Ethereum Jakarta** — Komunitas Web3 Developer Terbesar di Indonesia 🇮🇩
 
