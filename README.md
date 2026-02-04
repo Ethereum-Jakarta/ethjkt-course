@@ -65,8 +65,6 @@ Selamat datang di **Tower of Foundation**, menara pertama dalam perjalanan kalia
 
 ## 🗼 Phase 1: Tower of Shadows - Backend
 
-![Backend](https://github.com/user-attachments/assets/c8d1b071-eaac-4f46-b4d9-8b49026fe0f2)
-
 **The Unseen Arts** 🌑
 
 > *"Kekuatan terbesar adalah yang tidak terlihat oleh mata biasa."*
@@ -171,8 +169,6 @@ Selamat datang di **Tower of Shadows**, tempat dimana kalian akan mempelajari **
 ---
 
 ## 🗼 Phase 2: Tower of Illusions - Frontend
-
-![Frontend](https://github.com/user-attachments/assets/4e62769d-749f-45e7-9d65-ee1fcec201d0)
 
 **The Art of Visual Sorcery** ✨
 
