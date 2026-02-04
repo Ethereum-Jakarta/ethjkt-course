@@ -43,7 +43,9 @@ Sebuah dApp bukan cuma smart contract — ada frontend yang berinteraksi dengan 
 
 **Logic, Algorithm, JavaScript Dasar**
 
-Selamat datang di gerbang pertama. Di sini otak kalian akan dilatih untuk berpikir seperti programmer sejati.
+> *"Sebelum seorang penyihir dapat memanggil badai, ia harus terlebih dahulu memahami angin."*
+
+Selamat datang di **Tower of Foundation**, menara pertama dalam perjalanan kalian menjadi seorang wizard. Di sinilah kalian akan mempelajari **mantra-mantra dasar** — logika, algoritma, dan JavaScript. Tanpa fondasi yang kuat, mustahil untuk menguasai sihir yang lebih tinggi. Di tower ini, otak kalian akan diasah untuk berpikir seperti seorang **true coder wizard**.
 
 | Week | Topic | Repository |
 |------|-------|------------|
@@ -65,9 +67,11 @@ Selamat datang di gerbang pertama. Di sini otak kalian akan dilatih untuk berpik
 
 ![Backend](https://github.com/user-attachments/assets/c8d1b071-eaac-4f46-b4d9-8b49026fe0f2)
 
-**Let Him Cook** 🍳
+**The Unseen Arts** 🌑
 
-Di Phase 1 kalian akan belajar *Memasak* berbagai hidangan sebagai seorang Backend Developer. Layaknya seorang `koki` yang menyiapkan `masakan` untuk dihidangkan, kalian akan menyiapkan API, database, dan server untuk disajikan ke Frontend.
+> *"Kekuatan terbesar adalah yang tidak terlihat oleh mata biasa."*
+
+Selamat datang di **Tower of Shadows**, tempat dimana kalian akan mempelajari **sihir tersembunyi** yang bekerja di balik layar. Seperti bayangan yang menopang setiap gerakan, **Backend** adalah kekuatan tak kasat mata yang menggerakkan segalanya. Di tower ini, kalian akan belajar meracik **ramuan data** (database), menciptakan **portal komunikasi** (API), dan membangun **benteng pertahanan** (server & security). Dunia mungkin tidak melihat sihir kalian, tapi tanpanya — tidak ada yang bisa berjalan.
 
 | Week | Topic | Repository |
 |------|-------|------------|
@@ -170,9 +174,11 @@ Di Phase 1 kalian akan belajar *Memasak* berbagai hidangan sebagai seorang Backe
 
 ![Frontend](https://github.com/user-attachments/assets/4e62769d-749f-45e7-9d65-ee1fcec201d0)
 
-**Kenapa Doraemon?** 🤖
+**The Art of Visual Sorcery** ✨
 
-Di Phase 2 kalian akan banyak belajar "sihir", sama seperti menggunakan item-item dari pocket Doraemon. Semakin banyak library yang kalian kuasai, semakin powerful. Karena Frontend adalah dunia visual — hasil codingan kalian terlihat langsung di layar!
+> *"Ilusi yang sempurna tidak bisa dibedakan dari kenyataan."*
+
+Selamat datang di **Tower of Illusions**, menara dimana kalian akan menguasai **seni sihir visual**. Di sinilah mantra-mantra kalian akan terlihat oleh dunia — setiap baris kode menciptakan **ilusi interaktif** yang memukau. Seperti seorang **Illusionist** yang memiliki kantong ajaib penuh artefak, kalian akan mengumpulkan berbagai **magical libraries** (React, TailwindCSS, Redux, dll). Semakin banyak artefak yang kalian kuasai, semakin powerful ilusi yang bisa kalian ciptakan. Di tower ini, kreativitas bertemu dengan sihir — dan hasilnya terlihat langsung di depan mata!
 
 | Week | Topic | Repository |
 |------|-------|------------|
@@ -295,9 +301,13 @@ Stage paling menyakitkan di Phase 2, dimana kalian akan terus berinovasi dan mem
 
 ## 🗼 Phase 3: Tower of Chains - Web3
 
-**🚧 Under Development**
+**The Eternal Binding Magic** ⛓️
 
-Blockchain Development, Smart Contracts, DeFi, NFTs, and more...
+> *"Apa yang tertulis di rantai, tidak dapat dihapus oleh waktu."*
+
+Selamat datang di **Tower of Chains**, puncak tertinggi dari perjalanan kalian. Di sinilah kalian akan mempelajari **sihir abadi** — mantra yang sekali di-cast, akan tercatat selamanya di dalam **Eternal Ledger** (blockchain). Kalian akan belajar menciptakan **Binding Contracts** (Smart Contracts) yang tidak bisa diingkari, membangun **Decentralized Realms** (dApps), dan menguasai **Token Alchemy** (DeFi, NFTs). Di tower ini, kalian bukan lagi sekadar developer — kalian adalah **Archmage of the Decentralized World**.
+
+**🚧 Coming Soon** — Persiapkan diri kalian, tower ini akan segera terbuka...
 
 ---
 
