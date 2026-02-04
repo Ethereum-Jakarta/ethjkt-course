@@ -2,44 +2,44 @@
 
 ![ETHJKT Banner](https://ethjkt.id/banner.png)
 
-**Ethereum Jakarta** — Komunitas Web3 Developer Terbesar di Indonesia
+**Ethereum Jakarta** — Komunitas Web3 Developer Terbesar di Indonesia 🇮🇩
 
 ---
 
-## Tentang ETHJKT
+## 🧙 Tentang ETHJKT
 
 ETHJKT adalah akademi sihir untuk para developer yang ingin menguasai dunia Web3. Sebuah komunitas yang dibangun dengan satu misi: **membuktikan bahwa siapapun bisa menjadi Fullstack Web3 Developer tanpa biaya sama sekali.**
 
-### Misi Kami
+### 🎯 Misi Kami
 
 Ethereum dibangun dengan prinsip **decentralization, openness, dan accessibility**. Kami percaya pendidikan Web3 juga harus demikian — **terbuka untuk semua, tanpa barrier biaya.**
 
 ETHJKT hadir untuk memutus gap antara mereka yang bermimpi menjadi developer dengan mahalnya biaya bootcamp dan pendidikan formal IT. Di sini, **FREE bukan sekadar harga, tapi prinsip.**
 
-### Why Web2 Before Web3?
+### 🔗 Why Web2 Before Web3?
 
 Sebuah dApp bukan cuma smart contract — ada frontend yang berinteraksi dengan wallet, backend yang menghandle off-chain data, dan infrastructure yang menghubungkan semuanya. **Developer Web3 yang tidak paham Web2 seperti membangun rumah tanpa fondasi.**
 
-### Tech Stack
+### 💻 Tech Stack
 
 **JavaScript/TypeScript** sebagai bahasa utama — dari backend (Node.js), frontend (React/Next.js), hingga Web3 (ethers.js, wagmi, viem).
 
-**Learn anywhere. Learn anytime. At your own pace.**
+**Learn anywhere. Learn anytime. At your own pace.** 🚀
 
 ---
 
-## The Four Towers of ETHJKT
+## 🏰 The Four Towers of ETHJKT
 
 | Tower | Phase | Focus | Status |
 |-------|-------|-------|--------|
-| **Tower of Foundation** | [Phase 0](#-phase-0-tower-of-foundation) | Logic, Algorithm, JavaScript | Available |
-| **Tower of Shadows** | [Phase 1](#-phase-1-tower-of-shadows---backend) | Backend Development | Available |
-| **Tower of Illusions** | [Phase 2](#-phase-2-tower-of-illusions---frontend) | Frontend Development | Available |
-| **Tower of Chains** | [Phase 3](#-phase-3-tower-of-chains---web3) | Web3 & Blockchain | Coming Soon |
+| 🗼 **Tower of Foundation** | [Phase 0](#-phase-0-tower-of-foundation) | Logic, Algorithm, JavaScript | ✅ Available |
+| 🗼 **Tower of Shadows** | [Phase 1](#-phase-1-tower-of-shadows---backend) | Backend Development | ✅ Available |
+| 🗼 **Tower of Illusions** | [Phase 2](#-phase-2-tower-of-illusions---frontend) | Frontend Development | ✅ Available |
+| 🗼 **Tower of Chains** | [Phase 3](#-phase-3-tower-of-chains---web3) | Web3 & Blockchain | 🚧 Coming Soon |
 
 ---
 
-## Phase 0: Tower of Foundation
+## 🗼 Phase 0: Tower of Foundation
 
 **Logic, Algorithm, JavaScript Dasar**
 
@@ -53,19 +53,19 @@ Selamat datang di gerbang pertama. Di sini otak kalian akan dilatih untuk berpik
 | Week 4 | Before the Journey | [phase-0-week4-before-the-journey](https://github.com/Ethereum-Jakarta/phase-0-week4-before-the-journey) |
 | Prep | Preparation Phase 1 | [phase-0-preparation](https://github.com/Ethereum-Jakarta/phase-0-preparation) |
 
-**Bonus Resources:**
+**✨ Bonus Resources:**
 - [Basic Loop Quiz](https://github.com/Ethereum-Jakarta/phase-0-basic-loop-quiz)
 - [Code in Mobile](https://github.com/Ethereum-Jakarta/phase-0-code-in-mobile) - Belajar coding di HP Android
 
-**Requirement:** Codewars Kyu 6 + Live Code untuk lanjut ke Phase 1
+**⚔️ Requirement:** Codewars Kyu 6 + Live Code untuk lanjut ke Phase 1
 
 ---
 
-## Phase 1: Tower of Shadows - Backend
+## 🗼 Phase 1: Tower of Shadows - Backend
 
 ![Backend](https://github.com/user-attachments/assets/c8d1b071-eaac-4f46-b4d9-8b49026fe0f2)
 
-**Let Him Cook**
+**Let Him Cook** 🍳
 
 Di Phase 1 kalian akan belajar *Memasak* berbagai hidangan sebagai seorang Backend Developer. Layaknya seorang `koki` yang menyiapkan `masakan` untuk dihidangkan, kalian akan menyiapkan API, database, dan server untuk disajikan ke Frontend.
 
@@ -77,10 +77,10 @@ Di Phase 1 kalian akan belajar *Memasak* berbagai hidangan sebagai seorang Backe
 | Week 4 | Backend Server API | [phase-1-week4-backend-api](https://github.com/Ethereum-Jakarta/phase-1-week4-backend-api) |
 | Week 5 | Backend Advance | [phase-1-week5-backend-advance](https://github.com/Ethereum-Jakarta/phase-1-week5-backend-advance) |
 
-### Phase 1 Curriculum
+### 📚 Phase 1 Curriculum
 
 <details>
-<summary><b>Week 1 - Enhance Logic</b></summary>
+<summary><b>🔮 Week 1 - Enhance Logic</b></summary>
 
 - OOP (Object Oriented Programming)
 - Time Complexity
@@ -91,12 +91,12 @@ Di Phase 1 kalian akan belajar *Memasak* berbagai hidangan sebagai seorang Backe
 - Huffman Coding Algorithm
 - Hashing Algorithm
 - Process Argv
-- Arcane Quest: OOP, Search Algo, Sorting Algo, Graph, Dijkstra
+- 🧪 Arcane Quest: OOP, Search Algo, Sorting Algo, Graph, Dijkstra
 
 </details>
 
 <details>
-<summary><b>Week 2 - Backend Fundamental MVC</b></summary>
+<summary><b>🔮 Week 2 - Backend Fundamental MVC</b></summary>
 
 - Back-End Fundamental & Concept
 - Installing Linux di Windows (WSL)
@@ -106,12 +106,12 @@ Di Phase 1 kalian akan belajar *Memasak* berbagai hidangan sebagai seorang Backe
 - JSON
 - CLI Apps with Chalk
 - Encrypt & Decrypt
-- Arcane Quest: Encrypt/Decrypt, Async, Hospital Interface, CLI App Game, CLI Chess
+- 🧪 Arcane Quest: Encrypt/Decrypt, Async, Hospital Interface, CLI App Game, CLI Chess
 
 </details>
 
 <details>
-<summary><b>Week 3 - Backend MVC Database</b></summary>
+<summary><b>🔮 Week 3 - Backend MVC Database</b></summary>
 
 - SQL Query Database
 - NoSQL Database (MongoDB)
@@ -124,12 +124,12 @@ Di Phase 1 kalian akan belajar *Memasak* berbagai hidangan sebagai seorang Backe
 - Routes & Params
 - Middlewares
 - POSTMAN
-- Arcane Quest: Warehouse SQL, Warehouse NoSQL, Database Design, Address Book, Address Book API
+- 🧪 Arcane Quest: Warehouse SQL, Warehouse NoSQL, Database Design, Address Book, Address Book API
 
 </details>
 
 <details>
-<summary><b>Week 4 - Backend Server API</b></summary>
+<summary><b>🔮 Week 4 - Backend Server API</b></summary>
 
 - Prisma ORM (Next Level ORM)
 - Mongoose ODM
@@ -143,13 +143,13 @@ Di Phase 1 kalian akan belajar *Memasak* berbagai hidangan sebagai seorang Backe
 - Backend Documentation
 - Backend Deployment
 - Template Engine EJS
-- Arcane Quest: Prisma Todo, Mongoose Todo, Inventory System, Finishing IS, Testing, Documentation, Deployment
-- Group Project Nolep
+- 🧪 Arcane Quest: Prisma Todo, Mongoose Todo, Inventory System, Finishing IS, Testing, Documentation, Deployment
+- 💀 Group Project
 
 </details>
 
 <details>
-<summary><b>Week 5 - Backend Advance</b></summary>
+<summary><b>🔮 Week 5 - Backend Advance</b></summary>
 
 - TypeScript
 - Bun.js
@@ -159,18 +159,18 @@ Di Phase 1 kalian akan belajar *Memasak* berbagai hidangan sebagai seorang Backe
 - Microservices (Synchronous & Asynchronous)
 - Payment Gateway (Stripe)
 - Movie Reservation System (Study Case)
-- Arcane Quest: WS Chat Room, Microservices + Bun + Stripe
-- Group Project Nolep Phase 1 Final
+- 🧪 Arcane Quest: WS Chat Room, Microservices + Bun + Stripe
+- 💀💀💀 Group Project Phase 1 Final
 
 </details>
 
 ---
 
-## Phase 2: Tower of Illusions - Frontend
+## 🗼 Phase 2: Tower of Illusions - Frontend
 
 ![Frontend](https://github.com/user-attachments/assets/4e62769d-749f-45e7-9d65-ee1fcec201d0)
 
-**Kenapa Doraemon?**
+**Kenapa Doraemon?** 🤖
 
 Di Phase 2 kalian akan banyak belajar "sihir", sama seperti menggunakan item-item dari pocket Doraemon. Semakin banyak library yang kalian kuasai, semakin powerful. Karena Frontend adalah dunia visual — hasil codingan kalian terlihat langsung di layar!
 
@@ -179,13 +179,13 @@ Di Phase 2 kalian akan banyak belajar "sihir", sama seperti menggunakan item-ite
 | Week 1 | Frontend Fundamental | [phase-2-week1-frontend-basic](https://github.com/Ethereum-Jakarta/phase-2-week1-frontend-basic) |
 | Week 2 | React.js | [phase-2-week2-reactjs](https://github.com/Ethereum-Jakarta/phase-2-week2-reactjs) |
 | Week 3 | Frontend Advance | [phase-2-week3-frontend-advance](https://github.com/Ethereum-Jakarta/phase-2-week3-frontend-advance) |
-| Week 4 | Next.js | Coming Soon |
-| Week 5 | Fullstack Enhancement | Coming Soon |
+| Week 4 | Next.js | 🚧 Coming Soon |
+| Week 5 | Fullstack Enhancement | 🚧 Coming Soon |
 
-### Phase 2 Curriculum
+### 📚 Phase 2 Curriculum
 
 <details>
-<summary><b>Week 1 - Frontend Fundamental</b></summary>
+<summary><b>🔮 Week 1 - Frontend Fundamental</b></summary>
 
 - HTML
 - CSS
@@ -196,15 +196,15 @@ Di Phase 2 kalian akan banyak belajar "sihir", sama seperti menggunakan item-ite
 - AJAX
 - Local Storage
 - Deployment Frontend: Vercel
-- Arcane Quest: Pet Shop (HTML, CSS), Inventory System Registration & Login Form
-- Explore Nolep
-- Soft Skills: Good Presentation
-- Group Project Challenge: jQuery
+- 🧪 Arcane Quest: Pet Shop (HTML, CSS), Inventory System Registration & Login Form
+- 🌌 Mystic Exploration
+- 🎤 Soft Skills: Good Presentation
+- 💀 Group Project Challenge: jQuery
 
 </details>
 
 <details>
-<summary><b>Week 2 - React.js</b></summary>
+<summary><b>🔮 Week 2 - React.js</b></summary>
 
 - Virtual DOM
 - Basic React Concept
@@ -217,14 +217,14 @@ Di Phase 2 kalian akan banyak belajar "sihir", sama seperti menggunakan item-ite
 - Material Project: Pokemon Collection
 - Public API
 - TailwindCSS
-- Arcane Quest: React Project using Public API, React Inventory System
-- Soft Skills: Problem Solver
-- Group Project Challenge: Public API
+- 🧪 Arcane Quest: React Project using Public API, React Inventory System
+- 🎤 Soft Skills: Problem Solver
+- 💀 Group Project Challenge: Public API
 
 </details>
 
 <details>
-<summary><b>Week 3 - Frontend Advance</b></summary>
+<summary><b>🔮 Week 3 - Frontend Advance</b></summary>
 
 - Vite Introduction
 - Core Hooks (useRef, useContext, useCallback, useMemo)
@@ -233,19 +233,19 @@ Di Phase 2 kalian akan banyak belajar "sihir", sama seperti menggunakan item-ite
 - Tanstack Query (data fetching, mutate, rehydrate)
 - Global State Management: Redux
 - CSS Framework: MUI
-- Portfolio Challenge: E-Commerce
+- 🏆 Portfolio Challenge: E-Commerce
 - UI/UX Behavior
 - More Tanstack (Router, Tables, Form)
 - Frontend Testing: Cypress
 - Clerk Authentication
-- Explore Nolep: Layouting Grid
-- Soft Skills: Self Marketing
-- Group Project Challenge: Stripe + Clerk
+- 🌌 Mystic Exploration: Layouting Grid
+- 🎤 Soft Skills: Self Marketing
+- 💀 Group Project Challenge: Stripe + Clerk
 
 </details>
 
 <details>
-<summary><b>Week 4 - Next.js (Coming Soon)</b></summary>
+<summary><b>🔮 Week 4 - Next.js (Coming Soon)</b></summary>
 
 - Next.js Basic Concept
 - Pages and Navigation
@@ -255,51 +255,53 @@ Di Phase 2 kalian akan banyak belajar "sihir", sama seperti menggunakan item-ite
 - Next Auth
 - TypeScript
 - Translation (linguimacro, next-translate)
-- Portfolio Challenge: Events App
-- Explore Nolep: AI Tools
-- Soft Skills: Persistence and Patience
-- Group Project Challenge: Next.js
+- 🏆 Portfolio Challenge: Events App
+- 🌌 Mystic Exploration: AI Tools
+- 🎤 Soft Skills: Persistence and Patience
+- 💀 Group Project Challenge: Next.js
 
 </details>
 
 <details>
-<summary><b>Week 5 - Fullstack Enhancement (Coming Soon)</b></summary>
+<summary><b>🔮 Week 5 - Fullstack Enhancement (Coming Soon)</b></summary>
 
 - PWA (Progressive Web App)
 - Realtime Concept (WebSockets)
 - Socket.IO
-- Portfolio Challenge: Full Stack Chat App
+- 🏆 Portfolio Challenge: Full Stack Chat App
 - GraphQL
-- Group Project Challenge: Multiplayer Game
+- 💀 Group Project Challenge: Multiplayer Game
 
 </details>
 
-### Phase 2 Score System
+### 📊 Phase 2 Score System
 
 Di Phase 2, cara penilaian berbeda dari Phase 1. Explore dan tampilan sangat dinilai, logic bukan prioritas utama.
 
 | Category | Weight |
 |----------|--------|
-| UI | 40% |
-| Explore | 30% |
-| Public Speaking | 20% |
-| Logic | 10% |
+| 🎨 UI | 40% |
+| 🌌 Explore | 30% |
+| 🎤 Public Speaking | 20% |
+| 🧠 Logic | 10% |
 
-### Group Project Challenge & Portfolio Challenge
+### 💀 Group Project Challenge & Portfolio Challenge
 
-Stage paling krusial di Phase 2. Kalian akan terus berinovasi dan membuat project mengikuti perkembangan materi di setiap week. Stage ini melatih jam terbang dan pengalaman kolaborasi yang sangat berguna di karir kalian.
+**INI STAGE PALING KRUSIAL DI PENDIDIKAN ETHJKT**
+
+Stage paling menyakitkan di Phase 2, dimana kalian akan terus berinovasi dan membuat project mengikuti perkembangan materi di setiap week. Stage ini melatih jam terbang dan pengalaman kolaborasi yang sangat berguna di karir kalian. Tools yang kalian pakai sudah modern, jadi maksimalkan performa kalian di stage ini.
 
 ---
 
-## Phase 3: Tower of Chains - Web3
+## 🗼 Phase 3: Tower of Chains - Web3
 
-**Under Development**
+**🚧 Under Development**
 
 Blockchain Development, Smart Contracts, DeFi, NFTs, and more...
 
 ---
 
-## Role Progression
+## 🎖️ Role Progression
 
 ```
 Etherean → Initiate → Adept → Mage → Sorcerer → Archmage → High Wizard
@@ -307,56 +309,58 @@ Etherean → Initiate → Adept → Mage → Sorcerer → Archmage → High Wiza
 
 | Role | Milestone |
 |------|-----------|
-| **Etherean** | Baru bergabung di komunitas |
-| **Initiate** | Memulai Phase 0 |
-| **Adept** | Memulai Phase 1 |
-| **Mage** | Memulai Phase 2 |
-| **Sorcerer** | Memulai Phase 3 |
-| **Archmage** | Lulus Phase 3 atau alumni hackathon |
-| **High Wizard** | Top contributor |
+| 🌟 **Etherean** | Baru bergabung di komunitas |
+| 🔰 **Initiate** | Memulai Phase 0 |
+| ⚔️ **Adept** | Memulai Phase 1 |
+| 🧙 **Mage** | Memulai Phase 2 |
+| 🔮 **Sorcerer** | Memulai Phase 3 |
+| 👑 **Archmage** | Lulus Phase 3 atau alumni hackathon |
+| 🏆 **High Wizard** | Top contributor |
 
 ---
 
-## Council of Mentors
+## 🧙‍♂️ Council of Mentors
 
 | Mentor | Expertise |
 |--------|-----------|
-| **Zexo** | DeFi Lord |
-| **Verestra** | ZK God |
-| **Harkon** | Keeper of Time |
-| **Velsaria** | AI King |
-| **Terkoiz** | Intelligent Swarm |
-| **Rakemoon** | Vibe Code Enjoyer |
+| ⚡ **Zexo** | DeFi Lord |
+| 🔐 **Verestra** | ZK God |
+| ⏳ **Harkon** | Keeper of Time |
+| 🤖 **Velsaria** | AI King |
+| 🐝 **Terkoiz** | Intelligent Swarm |
+| 🎵 **Rakemoon** | Vibe Code Enjoyer |
 
 ---
 
-## Sistem Pembelajaran
+## 📜 Sistem Pembelajaran
 
 | Method | Description |
 |--------|-------------|
-| **Self-Paced Learning** | Belajar kapanpun, dimanapun |
-| **Live Class (On Request)** | Tag mentor di Discord untuk request |
-| **Private Mentoring** | 1-on-1 session dengan mentor |
-| **Offline Workshop** | Hands-on workshop di Jakarta |
-| **Onchain Day** | Deploy ke mainnet bersama-sama |
-| **Arcane Quest** | Challenge exercises untuk mengasah skill |
+| 🌍 **Self-Paced Learning** | Belajar kapanpun, dimanapun |
+| 🎥 **Live Class (On Request)** | Tag mentor di Discord untuk request |
+| 🤝 **Private Mentoring** | 1-on-1 session dengan mentor |
+| 🏫 **Offline Workshop** | Hands-on workshop di Jakarta |
+| ⛓️ **Onchain Day** | Deploy ke mainnet bersama-sama |
+| 🧪 **Arcane Quest** | Challenge exercises untuk mengasah skill |
 
-### Explore Nolep
+### 🌌 Mystic Exploration
 
-Dari habit Phase 1, level kalian sekarang harusnya sudah bisa membaca dokumentasi sendiri atau self-learning. Sebisa mungkin kalian harus speed up eksplorasi karena akan banyak library yang perlu di-explore. **Explore Nolep adalah tugas wajib dan akan dinilai.**
+Dari habit Phase 1, level kalian sekarang harusnya sudah bisa membaca dokumentasi sendiri atau self-learning. Sebisa mungkin kalian harus speed up eksplorasi karena akan banyak library yang perlu di-explore.
 
-### Soft Skills
+**Mystic Exploration adalah tugas wajib dan porsi penilaiannya 30%, jadi jangan sampai tidak mengerjakan!**
+
+### 🎤 Soft Skills
 
 Di Phase 2, bukan hanya praktikal dan teknis yang diajarkan. Soft skills melengkapi kemampuan teknis seorang full stack developer:
-- Berkontribusi secara efektif dalam lingkungan kerja yang dinamis
-- Berkolaborasi dengan berbagai stakeholder
-- Menghasilkan produk yang memenuhi kebutuhan pengguna dan bisnis
+- ✨ Berkontribusi secara efektif dalam lingkungan kerja yang dinamis
+- 🤝 Berkolaborasi dengan berbagai stakeholder
+- 🎯 Menghasilkan produk yang memenuhi kebutuhan pengguna dan bisnis
 
 Soft skills inilah yang membedakan developer yang baik dengan yang luar biasa, dan sering menjadi faktor kunci dalam kemajuan karir.
 
 ---
 
-## Cara Submit Tugas
+## 📋 Cara Submit Tugas
 
 1. **Fork** repository tugas
 2. **Clone** repo hasil fork ke local
@@ -374,33 +378,33 @@ git push origin nama-branch-baru
 
 ---
 
-## Show Off Program
+## 🏆 Show Off Program
 
 | Program | Description |
 |---------|-------------|
-| **Hackathon Squad** | Tim untuk ETHGlobal, ETH Tokyo, dll |
-| **Annual Showcase** | Offline event tahunan untuk showcase project |
+| ⚔️ **Hackathon Squad** | Tim untuk ETHGlobal, ETH Tokyo, dll |
+| 🎪 **Annual Showcase** | Offline event tahunan untuk showcase project |
 
 ---
 
-## Links
+## 🔗 Links
 
-- [Discord ETHJKT](https://discord.gg/Bb7UF4vuK4)
-- [Twitter @ethjkt](https://twitter.com/ethjkt)
-- [Website ETHJKT](https://ethjkt.id)
-- [Roadmap 2026](https://github.com/Ethereum-Jakarta/ethjkt-roadmap-2026)
+- 💬 [Discord ETHJKT](https://discord.gg/Bb7UF4vuK4)
+- 🐦 [Twitter @ethjkt](https://twitter.com/ethjkt)
+- 🌐 [Website ETHJKT](https://ethjkt.id)
+- 📍 [Roadmap 2026](https://github.com/Ethereum-Jakarta/ethjkt-roadmap-2026)
 
 ---
 
-## Dukung Kami
+## ⭐ Dukung Kami
 
 Jika kalian menemukan course ini bermanfaat:
-- Berikan star di repository
+- Berikan ⭐ star di repository
 - Sebarkan ke teman-teman kalian
 - Karena materi ini **100% GRATIS**!
 
 ---
 
-*"From Etherean to Archmage — Your Web3 Journey Starts Here"*
+*"From Etherean to Archmage — Your Web3 Journey Starts Here"* 🧙‍♂️
 
-**ETHJKT - Building Indonesia's Web3 Developer Community**
+**ETHJKT - Building Indonesia's Web3 Developer Community** 🇮🇩
