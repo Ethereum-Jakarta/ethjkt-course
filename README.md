@@ -544,6 +544,9 @@ Ini bukan sekadar demo day — ini adalah panggung untuk menunjukkan bahwa **Eth
 
 > *Lantai tertinggi dari menara ETHJKT. Hanya Archmage dan High Wizard yang melewati gerbang ini.*
 
+> 🖤 **The Black Tower kini terbuka → [github.com/Ethereum-Jakarta/ethjkt-black-tower](https://github.com/Ethereum-Jakarta/ethjkt-black-tower)**
+> Termasuk **[The Ascent](https://github.com/Ethereum-Jakarta/ethjkt-black-tower/blob/main/THE-ASCENT.md)** — kurikulum protocol-engineering ETHJKT dari nol (48 lesson mendalam, dua jalur: EIP/ERC authoring & core-client engineering) yang mengubah dApp dev jadi protocol engineer.
+
 The Black Tower adalah lingkaran dalam ETHJKT — kelompok tertutup dari builder terkuat kami. Bukan penonton. Bukan silent reader. Setiap member di sini sudah membuktikan diri melalui Phase 0-3 dan mendapatkan rank mereka.
 
 **Di sinilah kita berhenti belajar dan mulai berkontribusi ke Ethereum itu sendiri.**
